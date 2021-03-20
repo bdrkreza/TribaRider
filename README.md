@@ -1,70 +1,48 @@
-# Getting Started with Create React App
+my site link
+https://pensive-heyrovsky-631a86.netlify.app/
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+my githum link
+https://github.com/Porgramming-Hero-web-course/react-auth-bdrkreza-1
 
-## Available Scripts
 
-In the project directory, you can run:
+Pagination
+As a user, I can switch between rider list so that I have not to see them in one page Senario:
 
-### `npm start`
+Open home page
+There is load more button at the end if items are more than
+click on load more button and it shows more  items until it is done.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Choose location on map
+As a user, I can choose my location on map so that I have not to enter it manually. senario:
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+Add item to cart
+Proceed to checkout
+Sign-in or Register
 
-### `npm test`
+Save user address in profile
+As a user, I can save my address in my profile so that I have not to enter it everytime I have an order senario:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Add item to car
+Proceed to checkout
+Sign-in or Register
 
-### `npm run build`
+select to rider
+As a user, I can get website so that I notice of any change to my order or account.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Place an order
+Send email for order details
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Forget and Reset Password
+As a user I want to reset my password.
+Click forget password
+Get reset email from ecommerce
+Click on the link and enter new password
 
-### `npm run eject`
+Logout Menu
+As a user, I can see logout link on header menu so that I have not to go to profile page to logout
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Click or move mouse over user name on the header menu
+show account setting, order history and logout
+click on logout
+all login information removed from the browser.
