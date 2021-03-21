@@ -10,7 +10,23 @@
         "destinationCity": "Chittagong",
         "seatingCapacity": "4",
         "perKm": "9.25",
-        "ApproxDistance": [],
+        "rider": [
+            {
+                "vehicle": "BIKE",
+                "img": "https://webstockreview.net/images250_/biking-clipart-logo-1.png",
+                "totalAmount": 2000
+            },
+            {
+                "vehicle": "BIKE",
+                "img": "https://webstockreview.net/images250_/biking-clipart-logo-1.png",
+                "totalAmount": 2000
+            },
+            {
+                "vehicle": "BIKE",
+                "img": "https://webstockreview.net/images250_/biking-clipart-logo-1.png",
+                "totalAmount": 2000
+            }
+        ],
         "MinimumChargedDistance": "200",
         "driverCharges": "250",
         "nightHalt": "0",
@@ -28,7 +44,23 @@
         "destinationCity": "Mymensingh",
         "seatingCapacity": "4",
         "perKm": "9.25",
-        "ApproxDistance": [],
+        "rider": [
+            {
+                "vehicle": "CAR",
+                "img": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Draw_car.png",
+                "totalAmount": 3000
+            },
+            {
+                "vehicle": "CAR",
+                "img": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Draw_car.png",
+                "totalAmount": 3000
+            },
+            {
+                "vehicle": "CAR",
+                "img": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Draw_car.png",
+                "totalAmount": 3000
+            }
+        ],
         "MinimumChargedDistance": "200",
         "driverCharges": "250",
         "nightHalt": "0",
@@ -46,7 +78,23 @@
         "destinationCity": "Khulna",
         "seatingCapacity": "4",
         "perKm": "9.25",
-        "ApproxDistance": [],
+        "rider": [
+            {
+                "img": "https://www.pngkey.com/png/full/249-2490105_volvo-coach-bus.png",
+                "vehicle": "BUS",
+                "totalAmount": 4000
+            },
+            {
+                "img": "https://www.pngkey.com/png/full/249-2490105_volvo-coach-bus.png",
+                "vehicle": "BUS",
+                "totalAmount": 4000
+            },
+            {
+                "img": "https://www.pngkey.com/png/full/249-2490105_volvo-coach-bus.png",
+                "vehicle": "BUS",
+                "totalAmount": 4000
+            }
+        ],
         "MinimumChargedDistance": "200",
         "driverCharges": "250",
         "nightHalt": "0",
@@ -64,7 +112,23 @@
         "destinationCity": "Rajshahi",
         "seatingCapacity": "4",
         "perKm": "9.25",
-        "ApproxDistance": [],
+        "rider": [
+            {
+                "vehicle": "TRAIN",
+                "img": "https://static7.depositphotos.com/1025962/762/v/950/depositphotos_7627340-stock-illustration-passenger-train.jpg",
+                "totalAmount": 5000
+            },
+            {
+                "vehicle": "TRAIN",
+                "img": "https://static7.depositphotos.com/1025962/762/v/950/depositphotos_7627340-stock-illustration-passenger-train.jpg",
+                "totalAmount": 5000
+            },
+            {
+                "vehicle": "TRAIN",
+                "img": "https://static7.depositphotos.com/1025962/762/v/950/depositphotos_7627340-stock-illustration-passenger-train.jpg",
+                "totalAmount": 5000
+            }
+        ],
         "MinimumChargedDistance": "200",
         "driverCharges": "250",
         "nightHalt": "0",
