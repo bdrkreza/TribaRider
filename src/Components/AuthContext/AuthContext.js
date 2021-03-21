@@ -64,9 +64,6 @@ const AuthProvider = (props) => {
     }
 
 
-
-
-
     const logout = () => {
         return auth.signOut();
     }
