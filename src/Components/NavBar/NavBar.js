@@ -1,6 +1,6 @@
 
 import { Link } from 'react-router-dom';
-import logo from '../../Image/planet-travel.png'
+import logo from '../../Image/Terben-rider.png'
 import './Navbar.css'
 import { useHistory } from 'react-router';
 import { useAuth } from '../AuthContext/AuthContext';
@@ -29,7 +29,7 @@ const NavBar = () => {
                     <div className="col-10 mx-auto">
                         <nav className="navbar navbar-expand-lg stroke  navbar-light ">
                             <div className="container-fluid">
-                                <Link className="navbar-brand d-flex" to="/"><img className="logo w-50" src={logo} alt="brand-img" /></Link>
+                                <Link className="navbar-brand d-flex" to="/"><img className="logo w-25" src={logo} alt="brand-img" /></Link>
                                 <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                                     <span className="navbar-toggler-icon"></span>
                                 </button>
